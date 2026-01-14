@@ -11,7 +11,5 @@ rules:
   - DOMAIN-SUFFIX, apple-relay.cloudflare.com, 云鸟
   - DOMAIN-SUFFIX, guzzoni.apple.com, 云鸟
   - DOMAIN-SUFFIX, cp4.cloudflare.com, 云鸟
-  - DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com, 云鸟
-  - DOMAIN-SUFFIX, smoot.apple.com, 云鸟
   - DOMAIN-SUFFIX, apple-relay.akamaized.net, 云鸟
   - DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net, 云鸟
