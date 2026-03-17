@@ -13,3 +13,13 @@ rules:
   - DOMAIN-SUFFIX, cp4.cloudflare.com, 云鸟
   - DOMAIN-SUFFIX, apple-relay.akamaized.net, 云鸟
   - DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net, 云鸟
+
+##凌云加速器
+  - DOMAIN-SUFFIX, gateway.icloud.com, 凌云
+  - DOMAIN-SUFFIX, apple-relay.apple.com, 凌云
+  - DOMAIN-SUFFIX, apple-relay.fastly-edge.com, 凌云
+  - DOMAIN-SUFFIX, apple-relay.cloudflare.com, 凌云
+  - DOMAIN-SUFFIX, guzzoni.apple.com, 凌云
+  - DOMAIN-SUFFIX, cp4.cloudflare.com, 凌云
+  - DOMAIN-SUFFIX, apple-relay.akamaized.net, 凌云
+  - DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net, 凌云
